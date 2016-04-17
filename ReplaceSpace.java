@@ -2,7 +2,7 @@ package ArrayPractise;
 
 import java.util.Scanner;
 
-//Write a method to replace all spaces in a string with ‘%20’
+//Write a method to replace all spaces in a string with â€˜%20â€™
 //my name is chandani
 public class ReplaceSpace {
 	
@@ -25,7 +25,7 @@ public class ReplaceSpace {
 			
 		}
 		
-		System.out.println("Modified String "+modifiedString );
+		System.out.println("Modified String::: "+modifiedString );
 		
 	}
 	
